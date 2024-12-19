@@ -51,9 +51,9 @@ The **Corporate & IT News Scraper** is a Python-based tool designed to extract n
 ```
 corporate-it-news-scraper/
 |
-|-- scraper.py           # Main script to run the scraper
-|-- config.json          # Configuration file for customizing scraping parameters
-|-- requirements.txt     # Dependencies
+|-- main.py           # Main script to run the scraper
+|-- extraxt.html         # Configuration file for customizing scraping parameters
+|-- requirements.txt     # Dependencies(optional)
 |-- README.md            # Project documentation
 ```
 
